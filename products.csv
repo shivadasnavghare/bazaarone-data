@@ -1,0 +1,61 @@
+product_id,product_name,category,brand,unit_price,cost_price
+P001,Wireless Earbuds,Electronics,Voltix,2149,1824.32
+P002,Bluetooth Speaker,Electronics,Sonara,14729,12443.05
+P003,Smart Watch,Electronics,Voltix,9389,7527.79
+P004,Power Bank,Electronics,Nexon,5059,3681.72
+P005,USB-C Charger,Electronics,Voltix,17679,14570.93
+P006,Mechanical Keyboard,Electronics,Nexon,17819,11680.44
+P007,Wireless Mouse,Electronics,Voltix,14439,10380.67
+P008,Webcam,Electronics,Sonara,21049,16694.39
+P009,Tablet,Electronics,Voltix,13919,8388.52
+P010,Fitness Band,Electronics,Voltix,2979,1846.35
+P011,Gaming Headset,Electronics,Sonara,1279,886.85
+P012,Portable SSD,Electronics,Voltix,23009,14045.6
+P013,Mixer Grinder,Home & Kitchen,Kitchina,3259,1965.95
+P014,Electric Kettle,Home & Kitchen,Casa,819,486.74
+P015,Non-stick Pan,Home & Kitchen,Casa,8279,6476.74
+P016,Pressure Cooker,Home & Kitchen,Kitchina,7789,6528.49
+P017,Air Fryer,Home & Kitchen,Casa,6429,4813.02
+P018,Water Bottle,Home & Kitchen,Homely,1179,755.18
+P019,Dinner Set,Home & Kitchen,Kitchina,8789,6764.94
+P020,Table Lamp,Home & Kitchen,Casa,7189,6025.81
+P021,Bedsheet Set,Home & Kitchen,Casa,3059,2331.43
+P022,Storage Box,Home & Kitchen,Kitchina,6329,5244.55
+P023,Coffee Maker,Home & Kitchen,Homely,2239,1627.05
+P024,Knife Set,Home & Kitchen,Kitchina,3589,2764.24
+P025,Running Shoes,Fashion,Stridez,1109,852.43
+P026,Denim Jacket,Fashion,Stridez,5709,3810.65
+P027,Cotton Kurta,Fashion,Stridez,579,423.08
+P028,Formal Shirt,Fashion,Threadly,1639,1179.53
+P029,Sneakers,Fashion,Urbane,1189,919.81
+P030,Leather Wallet,Fashion,Stridez,2339,1510.66
+P031,Sunglasses,Fashion,Stridez,5359,3090.09
+P032,Backpack,Fashion,Threadly,4149,3189.69
+P033,Analog Watch,Fashion,Urbane,2899,1825.11
+P034,Sports T-Shirt,Fashion,Urbane,4279,2803.36
+P035,Chinos,Fashion,Threadly,4429,2499.92
+P036,Handbag,Fashion,Threadly,4499,3782.45
+P037,Data Science Handbook,Books,Inkwell,809,536.86
+P038,Python Cookbook,Books,PageTurn,289,200.52
+P039,Spark in Practice,Books,PageTurn,369,211.11
+P040,SQL Essentials,Books,PageTurn,549,354.44
+P041,Mystery Novel,Books,Inkwell,249,149.66
+P042,Self-help Guide,Books,PageTurn,369,211.25
+P043,Children's Atlas,Books,Inkwell,609,514.96
+P044,Cookery Book,Books,PageTurn,1099,746.66
+P045,Biography,Books,PageTurn,969,659.17
+P046,Exam Prep Guide,Books,PageTurn,289,176.77
+P047,Graphic Novel,Books,Inkwell,699,500.65
+P048,Poetry Collection,Books,PageTurn,1039,664.15
+P049,Face Wash,Beauty & Personal Care,Purely,319,230.17
+P050,Sunscreen SPF 50,Beauty & Personal Care,Purely,719,473.28
+P051,Hair Dryer,Beauty & Personal Care,Zest,469,373.87
+P052,Beard Trimmer,Beauty & Personal Care,Glowra,2449,1493.65
+P053,Perfume,Beauty & Personal Care,Glowra,929,688.81
+P054,Body Lotion,Beauty & Personal Care,Purely,1959,1145.33
+P055,Shampoo,Beauty & Personal Care,Purely,1949,1595.18
+P056,Lip Balm Set,Beauty & Personal Care,Glowra,479,341.64
+P057,Electric Toothbrush,Beauty & Personal Care,Glowra,1559,1035.85
+P058,Face Serum,Beauty & Personal Care,Purely,1849,1163.0
+P059,Hair Oil,Beauty & Personal Care,Zest,1149,920.49
+P060,Makeup Kit,Beauty & Personal Care,Zest,369,286.22
